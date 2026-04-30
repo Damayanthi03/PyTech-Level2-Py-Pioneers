@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -22,7 +21,7 @@ def sales_dashboard():
     print("Sales Dashboard Created Successfully")
     print("Total Sales:", total_sales)
     print("Best Product Line:", best_product)
-=======
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -46,4 +45,3 @@ def sales_dashboard():
     print("Sales Dashboard Created Successfully")
     print("Total Sales:", total_sales)
     print("Best Product Line:", best_product)
->>>>>>> 48bb3c2917ac7080f94d425528dea3b9c2e4dad0
